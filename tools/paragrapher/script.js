@@ -35,6 +35,7 @@ function drawText() {
         if (lineWidth + wordWidth > wrap) {
             x = 0
             y += charHeight + 1
+            lineWidth = 0
         }
         else lineWidth += wordWidth
         for (let char of word) {
