@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paragrapher</title>
+</head>
+<body>
+    <textarea id="paragraph" oninput="updateText(this.value)"></textarea>
+    <div id="settings">
+        <input type="number" oninput="updateWrap(this.value)" min=0 max=5000 value=500> Wrap Width (px)
+    </div>
+    <canvas id="text"></canvas>
+    <script src="script.js"></script>
+    <style>
+        :root{
+            background: #2c2c2c;
+            font-family: sans-serif;
+        }
+        #paragraph{
+            width: 50vw;
+            height: 20vh;
+            position: absolute;
+            left: 25vw;
+            top: 10px;
+            background: #3f3f3f;
+            border: 3px solid #686868;
+            box-sizing: border-box;
+            resize: none;
+            outline: none;
+            color: white;
+            font-size: 15pt;
+            padding: 5px;
+            border-radius: 5px;
+        }
+        #settings{
+            width: 50vw;
+            height: 10vh;
+            position: absolute;
+            left: 25vw;
+            top: calc(20vh + 20px);
+            background: #313131;
+            box-sizing: border-box;
+            color: white;
+            font-size: 15pt;
+            padding: 5px;
+            border-radius: 5px;
+        }
+        input{
+            background: #3f3f3f;
+            border: 3px solid #686868;
+            box-sizing: border-box;
+            outline: none;
+            padding: 5px;
+            border-radius: 5px;
+            color: white;
+            appearance: textfield;
+        }
+        #text{
+            width: 50vw;
+            height: calc(70vh - 40px);
+            padding: 5px;
+            position: absolute;
+            left: 25vw;
+            top: calc(30vh + 30px);
+            background: #cecece;
+            filter: invert();
+        }
+    </style>
+</body>
+</html>
