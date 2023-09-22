@@ -20,7 +20,7 @@ const updateText = (value) => { paragraph = value.replace("<br>", "\n"); drawTex
 const charHeight = 7
 
 function drawText() {
-    canvas.width = window.innerWidth / 2
+    canvas.width = Math.max(window.innerWidth / 2, 320)
     canvas.height = window.innerHeight * 0.70 - 40
     ctx.imageSmoothingEnabled = false
     ctx.clearRect(0, 0, canvas.width, canvas.height)
