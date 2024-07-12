@@ -1,0 +1,24 @@
+text = """“So, Vac, any idea about how I got this?” I said, placing my metallic leg over the ledge. It was a good way to show it to him, but it sounded way better in my head. I hadn’t thought about how to put it back down. It was... not an enjoyable experience.
+“From the state you were in on your bed, ma’am, it’s clear that you suffered a major accident, likely a vehicle collision, involving fire. You sustained injuries that cost you your left leg as well as blunt force trauma on your head, which is why you had those bandages and probably why you don’t seem to remember anything.”
+Ouch. Vehicle collision. Not remembering that part was actually a good thing. I continued:
+“...And they replaced it with this one. Got it. But... if I was there for over three years, how didn’t I... die from hunger? It’s not like I could...” I sighed. “Or would want to... eat anything.”
+“That would be thanks to me, ma’am. I periodically brought in a feeding tube to, well, feed you. Your IV contained hormones that slowed your metabolism down, so I didn’t have to do that extraordinarily often.”
+“And the last time was...?”
+“Today! A few hours before you woke up, to be more precise.”
+I couldn’t believe my luck. If I had woken up only a bit sooner, I would have been forced to deal with removing that thing. I really, really didn’t want to imagine that. Actually... I didn’t ask, for obvious reasons, but I came to the conclusion he would also have to deal with all of my... physiological needs... from time to time. Ew. I did not envy his job. My last question:
+“That oxygen mask... was it really necessary?”
+“Not at all, ma’am. I kept it there because, you know, it was already there when I arrived. Again, I’m not a medical professional, so I didn’t want to risk killing the only human I had to take care of. At the very least, the mainframe would fry my circuits.”
+“Great, because taking that blasted thing off gave me the headache of a lifetime.” It still hurt, by the way. I wouldn’t be walking near ledges with half of my field of view blocked for no reason. Although, as with most things, I was growing used to it.
+“Really, ma’am? I was wondering why you had that eye patch, since you didn’t have it when you were asleep. Give me a minute, please.”
+He then turned around and wheeled away. I observed him as he went into a distant room, with the sign “Pharmacy” next to it, fascinated by the way he used his arm to turn the knob, which was above his height. Some moments later, he returned carrying something red.
+“Here, ma’am,” he said as he dropped it on my palm, “this should take care of your headache.”
+Now that was something I wasn’t expecting: medicated by a vacuum cleaner. Somehow, that was too much. I needed to be left alone for a second.
+“Oh...! Thank you, Vac. I’ll... go to the kitchen and get a cup of water to take it, okay?”
+“No problem, ma’am! I’ll be up here.”
+That was only partially an excuse. I wasn’t actually going to take the pill dry. Amnesia and being civilised aren’t mutually exclusive.
+As I walked away, I heard the vacuum cleaner turn on again, the sound growing more muffled with the distance. If it had been a source of fear earlier, it was now comforting--a reminder that I wasn’t alone after all. Just not in the way I had been expecting. In fact, as I went down the stairs again, I realized that I now felt even lonelier than before. It was uncomfortable to be alone, after meeting him. I guess that’s what happens if you find yourself in my situation--you grow attached to a robot. But not without merit. He had pretty much saved my life.
+The echoing sound from above served as a reminder, together with the knowledge of why those hallways were so clean, of that poor thing’s routine. That’s all he did. Day after, and day after, and day after, and he didn’t know why. It was just his programming; the “orders from the mainframe”. Come to think of it, taking care of me was his only minimally different activity. Probably gross at times, yes, but according to him, driven by his directive to help humans instead of simple orders. It was the closest thing to free will he had.
+And what would it be like for him--I thought, as I swallowed the red pill--now that I was awake? In a way, I felt guilty. Obviously, waking up wasn’t my fault, but it didn’t change that fact. Somehow, the idea of him remaining in this place and doing his repetitive, monotonous tasks, for as long as his joints didn’t rust, was a bit heart-wrenching. It didn’t even have a purpose. Nobody was using this place anymore. But one thing, and one thing only, could change that: me. I had wanted to leave since my latest dream, yes, but I also wanted to take him with me now. It’s not like I wanted to be alone again, either. Everyone would win-
+“WHAT THE-” I blurted out as I felt something tapping my shoulder."""
+
+open("gen.txt", "w+", encoding="utf-8").write("\n".join([f"<p>{a.strip()}</p>" for a in text.split("\n")]))
