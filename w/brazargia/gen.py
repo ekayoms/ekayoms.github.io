@@ -1,35 +1,41 @@
-text = """My annoyed expression had changed to a slight, hopeful smile. I turned on my side on my bed. Being finally able to do that was awesome. I could now see Vac on the other side of the room, using some kind of... device? on top of a table by the wall. I saw something weird for the first time: he could actually get taller if necessary--there was a hydraulic system between his wheels and his main body making his height... adjustable. I felt a little jealous, before quickly remembering I already had more than enough non-organic body parts.
-“Vac...?” I asked. “What are you up to?”
-“Me, ma’am?” he replied, briefly turning to me with a smiling emoji on his screen. I could see he was looking at a screen too--a monitor on top of the table. “I’m getting your blood exam results!”
-“Wha...?” I exclaimed, trailing off as I slowly turned to look at my left arm. There was another curative on it, way bigger and more well made than the previous. Noticing it almost felt like it activated the pain. Damn you, Vac. At least I didn’t have to see the actual thing, though.
-“There you go, ma’am,” he said as he lowered his body and wheeled across the room back towards me, “the results are here.”
-“Ugh. Go ahead. This better have been worth it.”
-“It says here you have mild anemia, ma’am, a trend that has been slowly increasing in your latest tests. That’s probably why you feel constantly tired.”
-Oddly, I knew what that word meant, apparently enough to try being witty about it:
-“And what should I do about it, Doctor Vac? Should I chew an iron bar?”
-“No, ma’am. Taking the iron supplements I left on the bedside table will be enough.” I realised he had, in fact, left them there. I found it oddly heartwarming. It was... considerate of him to try “fixing” me.
-“You should also take the vitamin supplements I gave you. A, B, C, E and K. D, well... you should too, but the lack of sunlight outside as of right now won’t help much.”
-Lack of sunlight, already? For how long had I been out? Come to think of it, it was probably around dusk that I had tried to leave, given the color of the dome’s sun rays.
-“Finally, your white cell levels are normal, as in every blood work of yours... except for the first ones, three years ago.”
-“Huh?” That attracted my curiosity a bit.
-“You had elevated levels of white cells at that time, yes, meaning you were probably fighting an infection.”
-Fighting an infection. “Biohazard threat”. You can’t be serious. They didn’t abandon me because of that, right...? That was ridiculous. If that was the case, why didn’t they just...
-I ended up thinking too loudly.
-“...Why didn’t they just put me down?” I mumbled. Vac heard that very clearly. My face turned red as his screen switched to a disapproving emoji:
-“Stop with those kinds of thoughts, ma’am, before I put you to sleep again.”
-I stared at him in silence and simply started pointing at every single thing that was wrong with me. He couldn’t deny it: me having survived was one hell of an anomaly.
-“Ma’am... you still want to leave, don’t you?” he said after a while and after the robotic equivalent of a sigh--the noise from within him becoming louder. His gears were turning, literally and figuratively. “I can see it in your face. You’re trying to convince yourself that staying is what you want, because you think it’s hopeless. You’re lying to yourself.”
-OUCH.
-“What, you don’t think it’s a lost cause...?” I pointed out: “Because that door isn’t going anywhere.”
-“The door isn’t going anywhere, indeed, but that doesn’t mean it can’t open. I haven’t ever tested this, but...”
-“But?!” I lifted my head up from the pillow. I could tell my eyes were glowing.
-“There is a chance that the lockdown can be overridden by one thing, and one thing only: a fire alarm.”
-A... fire... alarm?!
-I squinted my eyes while looking directly at where I imagined his camera was:
-“Say that again, please?”
-“Yes, ma’am, you heard that right. A fire alarm. Think about it: the lockdown was designed to keep people from moving in or out, but it couldn’t know on which side of that door they would end up. In fact, you should be thankful for that.”
-Right. In theory, people could be stuck inside or outside this wing of the hospital. It didn’t matter--I was living proof one could very well survive inside. The point was to separate people. The infected from the non-infected, it can be deduced. That still bothered me. Had I actually won that lottery too? Just me? It couldn’t be.
-“So, if there were people inside and a fire broke out, it wouldn’t be a good idea to have them stuck in there, no matter the circumstances,” Vac continued. His expression then changed to a smug one. “Of course, this was only implemented because nobody would be stupid enough to start a fire just to circumvent a lockdown.” He was staring directly into my soul as he said that.
-Hey, I hadn’t said anything yet!"""
+text = """“Stop looking at me! This is your idea,” I protested, slapping the top of his body.
+“Ouch, ma’am,” he complained. “But... we are out of options here. We will have to do exactly that: start a fire. Or rather-”
+“Can’t you just... hack the alarm or something?”
+“I wish I had that permission level in the network, ma’am. No can do.”
+“Amazing. So, any ideas? Do we just turn all the ovens in the kitchen on and see what happens?”
+“That would probably work, but we don’t want to start an actual fire that will kill... Well, you. I’d be fine, probably. We just need to trigger the alarm.”
+“Then, uh... there’s some alcohol around... wouldn’t that work?”
+“I said we need to trigger the alarm. We don’t actually need to set inflammable things on fire at all. We just need smoke.”
+“Smoke... without a fire? You’re not helping us here, Vac.”
+“There’s an elegant solution I was going to mention before you interrupted me with the hacking idea. There are some chemicals in the storage on the underground floor. Mixing them to cause a small explosion would be enough.”
+The... the... the WHAT floor?
+“Since when is there an underground floor?!” I asked, perplexed.
+“The button reading ‘0’ in the lobby’s elevators, ma’am...” Vac said, slightly disappointed.
+Unfair. Those were the elevators I deliberately did not take. The one I took didn’t have that.
+“So... I guess we get to work, then?” I said, struggling to get up from the bed. I was still dizzy from the shock. Bastard. And my arm still hurt. Bastard.
+“Right away, ma’am. It will be an honor to blow up things with you.”
+“Vac... I literally just woke up from a three-year coma and don’t remember anything, but even I know how weird that sounded,” I said, laughing, as I put my sandals on. “But indeed... It will be an honor, too. You’re a good friend. Thanks... for everything you’ve been doing for me.”
+Vac’s screen displayed, alongside the usual white emoticon, two red circles below his “eyes”.
+“Y-you’re welcome, ma’am. I’m just doing my job.”
+“Are you? Your job is to clean this forsaken place,” I argued as we left the room. My words echoed across the corridors and the garden. No more light came from the domes. “But... what for? There’s no one here. Well, there is, but soon there won’t be, if this works.”
+“Orders from the mainframe, ma’am...”
+“Orders a human can override, right?” I stopped and looked back at him. I felt it was time. “I’m taking you with me, Vac. We’re leaving this prison together, you understand?”
+He stopped too, dead on his tracks. He wasn’t expecting that. He turned to me.
+“Ma’am, I...” Two blue-ish dots appeared on his face. “Thank you so much for trusting me, ma’am. I’ll serve you the best I can out there.”
+I was smiling. It was probably my first genuine smile since I had woken up.
+“And you said you aren’t sentient...” I picked on him.
+“What? No, ma’am, I- these are built-in responses, I am just an AI language model-”
+“Shut it! I consider you sentient. Be thankful for that; it means I think twice before kicking you in the wheels for doing this to me,” I said as I continued walking and pointed at my arm’s new curative.
+“Whatever you say, ma’am...”
+We reached the elevator. It was already parked on the floor we were on, the second. Presumably because he had used it to beat me on our previous--and morbid--“race”.
+“You dragged me all the way to that room?” I inquired, genuinely.
+“Of course not, ma’am. I brought you there on a litter. Although I did have to lift you onto it. At least that allowed me to properly measure your weight: fifty-”
+“HEY!” I gave him a murderous stare. Even I was scared of it.
+“Sorry, ma’am...”
+The elevator was far more spacious than the one I had been in, and there were two of them. The “0” button was, in fact, there. I pressed it, and the door closed behind us. We awkwardly stared at our reflections in the mirror as the stereotypical music played.
+“I do look screwed, don’t I?” I asked, with my hands on my waist.
+“Again, ma’am, no subjective opinions... but do you really need that eye patch? Using two eyes instead of one sounds... objectively better,” Vac replied.
+“Don’t worry about it, Vac,” I said. The migraine was slowly getting fainter, but I didn’t want to risk it. Plus... I didn’t want to admit it, but I had grown attached to it. It was my little handicraft, and it had absorbed plenty of my tears already.
+Ding!"""
 
 open("gen.txt", "w+", encoding="utf-8").write("\n".join([f"<p>{a.strip()}</p>" for a in text.split("\n")]))
